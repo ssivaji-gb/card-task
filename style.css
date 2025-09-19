@@ -63,6 +63,9 @@ span:hover{
   gap: 10px;
   display: flex;
 }
+.item-2:hover{
+  background-color: cadetblue;
+}
 .image {
     align-items: start;
   border-radius: 50px;
@@ -88,6 +91,9 @@ span:hover{
   background-color: aliceblue;
   border: 1px solid black;
   box-shadow: 5px 5px;
+}
+.item-2:hover{
+  background-color: cadetblue;
 }
 span:hover{
   color: rgb(245, 208, 78);
