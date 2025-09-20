@@ -89,7 +89,7 @@ span:hover {
     background-color: rgb(245, 208, 78);
   }
   .item-card {
-    width: 80%;
+    width: 60%;
     padding: 15px;
     border-radius: 10px;
     display: flex;
